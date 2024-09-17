@@ -2,7 +2,7 @@
 
 The source code for aaravmain.org is not here. I have moved to gitlab, because why not. (I don't like microsoft)
 
-gitlab.com/aaravmainWebsite/Production. 
+https://gitlab.com/aaravmainWebsite/Production. 
 
 also i might post some stuff on https://gitlab.archlinux.org/aarav/ because why not. will make a new repo for everything there
 
