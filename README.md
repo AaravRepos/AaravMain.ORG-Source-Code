@@ -4,6 +4,4 @@ The source code for aaravmain.org is not here. I have moved to gitlab, because w
 
 https://gitlab.com/aaravmainWebsite/Production. 
 
-also i might post some stuff on https://gitlab.archlinux.org/aarav/ because why not. will make a new repo for everything there
-
-posting here whenever i can. i used to post here more but cant beause I usually dont have a phone on me.
+# I am completely moving off GitLab. I will keep this user account and all repositories up but updates will be given to my main account. See my profile for details
